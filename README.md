@@ -75,7 +75,3 @@ my-ecommerce-app/
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
-
-## License
-
-[Specify the license, e.g., MIT License]
